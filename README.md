@@ -6,7 +6,8 @@ This Is a New version of qbcore !!!!!
 go to "qb-core" then shared folder > items.lua and add this New qb-core Folder : 
 
  -- FXS-Polar Ice Cream
-` coffeewithmilk                       = { name = 'coffeewithmilk', label = 'Coffee With Milk', weight = 200, type = 'item', image = 'coffeewithmilk.png', unique = false, useable = true, shouldClose = true, combinable = nil, description = 'Coffee With Milk' },
+
+ coffeewithmilk                       = { name = 'coffeewithmilk', label = 'Coffee With Milk', weight = 200, type = 'item', image = 'coffeewithmilk.png', unique = false, useable = true, shouldClose = true, combinable = nil, description = 'Coffee With Milk' },
    coffeeblack                     = { name = 'coffeeblack', label = 'Black Coffee', weight = 100, type = 'item', image = 'blackcoffee.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'Nice Black Coffee' },
     emptyglass                     = { name = 'emptyglass', label = 'Empty Glass', weight = 100, type = 'item', image = 'mug.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'Empty Glass' },
     coffebeans                     = { name = 'coffebeans', label = 'Coffee Beans', weight = 100, type = 'item', image = 'coffeebeans.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'Coffee Beans' },
@@ -32,7 +33,7 @@ go to "qb-core" then shared folder > items.lua and add this New qb-core Folder :
     vanillasmoothie                     = { name = 'vanillasmoothie', label = 'Vanilla Smoothie', weight = 100, type = 'item', image = 'vanillasmoothie.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'Smoothie Cup' },
     chocolatesmoothie                     = { name = 'chocolatesmoothie', label = 'Chocolate Smoothie', weight = 100, type = 'item', image = 'chocolatesmoothie.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'Smoothie Cup' },
     cookiedoughsmoothie                     = { name = 'cookiedoughsmoothie', label = 'Cookiedough Smoothie', weight = 100, type = 'item', image = 'cookiedoughsmoothie.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'Smoothie Cup' },
-    softdrinkscup                     = { name = 'softdrinkscup', label = 'Soft Drinks Cup', weight = 100, type = 'item', image = 'softdrinkscup.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'Smoothie Cup' }, `
+    softdrinkscup                     = { name = 'softdrinkscup', label = 'Soft Drinks Cup', weight = 100, type = 'item', image = 'softdrinkscup.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = 'Smoothie Cup' }, 
 
 
 
